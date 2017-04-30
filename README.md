@@ -35,3 +35,6 @@ Demo: http://dbtek.github.io/dbyll/
 ### License
 - [MIT](http://opensource.org/licenses/MIT)
 
+### Design
+By Ryu
+
